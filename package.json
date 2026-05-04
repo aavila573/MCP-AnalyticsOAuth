@@ -1,0 +1,14 @@
+{
+  "name": "mcp-ga-oauth",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "googleapis": "latest",
+    "zod": "latest"
+  }
+}
